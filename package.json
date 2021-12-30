@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:renatoam/alohomora-api.git",
   "author": "Renato <renatoalves92@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  }
 }
