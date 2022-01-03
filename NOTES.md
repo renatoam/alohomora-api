@@ -1,0 +1,1 @@
+- Talvez venha a ocorrer algum problema com a lib `eslint-config-standard-with-typescript`, porque na versão 16, ela exige um `await` em determinada parte do código, mas nas anteriores, não. Preciso esperar chegar essa parte no curso pra confirmar.
